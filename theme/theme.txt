@@ -1,0 +1,26 @@
+Arcade.SystemList.HideToolsButton: false
+Arcade.SystemList.BackgroundColor: #00FFFFFF
+Arcade.SystemList.System.Alpha: 0.25
+Arcade.SystemList.System.BackgroundColor: #00FFFFFF
+Arcade.SystemList.System.TextColor: #000000
+Arcade.SystemList.System.TextSize: 20
+Arcade.SystemList.SelectedSystem.Alpha: 1
+Arcade.SystemList.SelectedSystem.BackgroundColor: #00FFFFFF
+Arcade.SystemList.SelectedSystem.TextColor: #00FFFFFF
+Arcade.SystemList.SelectedSystem.TextSize: 20
+Arcade.GameList.BackgroundColor: #00FFFFFF
+Arcade.GameList.Game.Alpha: 0.25
+Arcade.GameList.Game.BackgroundColor: #00FFFFFF
+Arcade.GameList.Game.TextColor: #DFDFDF
+Arcade.GameList.Game.TextSize: 20
+Arcade.GameList.SelectedGame.Alpha: 1
+Arcade.GameList.SelectedGame.BackgroundColor: #00FFFFFF
+Arcade.GameList.SelectedGame.TextColor: #DFDFDF
+Arcade.GameList.SelectedGame.TextSize: 20
+Arcade.GameDescription.BackgroundColor: #88000000
+Arcade.GameDescription.TextColor: #B3FFFFFF
+Arcade.GameDescription.TextSize: 14
+Arcade.GameInfo.BackgroundColor: #88000000
+Arcade.GameInfo.TextColor: #B3FFFFFF
+Arcade.GameInfo.TextSize: 14r: #B3FFFFFF
+Arcade.GameInfo.TextSize: 14ze: 14 14
