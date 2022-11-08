@@ -1,4 +1,4 @@
-#Alekfull-SOLO-ArcBrowser
+# Alekfull-SOLO-ArcBrowser
 
 A port of fagnerpc’s Batocera theme Alekfull-SOLO (https://github.com/fagnerpc/Alekfull-SOLO) to Arc Browser. This includes console names, backgrounds, and music.
 
