@@ -40,6 +40,7 @@ Included Consoles:
 * commodore 64
 * daphne
 * doom
+* dos
 * dreamcast
 * famicom
 * fba
@@ -129,13 +130,14 @@ Included Consoles:
 * virtual boy
 * wii
 * wiiu
+* windows
 * wonderswan
 * wonderswan color
 * x1
 * x68000
 * zx81
 
-*Note:* Console names in Arc Browser and in `theme` folder/directory **must** match. If one is changed in one location, it must be changes in the other,
+*Note:* Console names in Arc Browser and in `theme` folder/directory **must** match. If one is changed in one location, it must be changes in the other.
 
 Installation:
    1. Download Zip file from repository and extract to `/Arc Browser/theme/` folder/directory on your Android Device
