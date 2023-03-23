@@ -148,7 +148,10 @@ Installation:
    6. Scroll down and select `Arcade layout settings`
    7. **Recommended:** Change `System list orientation and position` to `Horizontal - Middle of screen`
    8. Make any other needed changes to `Arcade layout settings`
-   9. Back out to the main game list
-   10. The app should load the theme. If this does not happen, manually close Arc Browser and reopen it.
+   9. See screenshot below for additional settings
+   10. Back out to the main game list
+   11. The app should load the theme. If this does not happen, manually close Arc Browser and reopen it.
+
+![Screenshot of Arcade Layout Settings](https://raw.githubusercontent.com/GumbyXGames/Alekfull-SOLO-ArcBrowser/main/Arcade%20Layout%20Settings.png)  
    
 *Note:* Elements of the theme will work with other UI layouts, but was designed for Arcade. Your milage will vary.
